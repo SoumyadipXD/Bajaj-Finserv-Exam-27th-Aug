@@ -9,3 +9,5 @@ For the brownie points:
 2. User can launch max 5 Rafel, after that he will receive a message that “Rafale successfully delivered to India”.
 
 3. After 5 successful delivery the window appears that “Rafale successfully delivered to India”. 
+
+Deployed Page: https://soumyadipxd.github.io/Bajaj-Finserv-Exam-27th-Aug/
